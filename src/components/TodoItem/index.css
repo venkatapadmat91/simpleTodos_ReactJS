@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.todos-item-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.todos-title {
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+.todos-btn-name {
+  color: #ff0b37;
+  background-color: #fff;
+  border: 1px solid #ff0b37;
+  border-radius: 5px;
+  height: 28px;
+  width: 60px;
+  font-weight: 600;
+}
